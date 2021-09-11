@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "388190510903",
+    "project_id": "fir-email-password-auth-cb592",
+    "storage_bucket": "fir-email-password-auth-cb592.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388190510903:android:02ed7dc0c7bdb9a11e84b2",
+        "android_client_info": {
+          "package_name": "com.cheolyong.fb_firebase_email_password_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "388190510903-qbp1d3vh5he10734870ub8v1gtsidges.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSsMCE_tgMMUsJdIYJMUjZiwh76QRjhXA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "388190510903-qbp1d3vh5he10734870ub8v1gtsidges.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
