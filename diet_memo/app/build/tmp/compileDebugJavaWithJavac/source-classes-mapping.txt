@@ -1,2 +1,0 @@
-com/cheolyong/diet_memo/BuildConfig.java
- com.cheolyong.diet_memo.BuildConfig
