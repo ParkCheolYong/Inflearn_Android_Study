@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/PCY/AndroidStudioProjects/Inflearn Study/app/src/main/res/layout/activity_main.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/PCY/AndroidStudioProjects/Inflearn Study/mango_contens/app/src/main/res/drawable/radius.xml" value="0.3671875" />
         <entry key="..\:/Users/PCY/AndroidStudioProjects/Inflearn Study/mango_contens/app/src/main/res/layout/activity_main.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/PCY/AndroidStudioProjects/Inflearn Study/mango_contens/app/src/main/res/layout/activity_splash.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/PCY/AndroidStudioProjects/Inflearn Study/mango_contens/app/src/main/res/layout/radius.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/PCY/AndroidStudioProjects/Inflearn Study/mango_contens/app/src/main/res/layout/rv_item.xml" value="0.35104166666666664" />
       </map>
     </option>
   </component>
