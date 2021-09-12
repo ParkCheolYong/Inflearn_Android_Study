@@ -1,2 +1,6 @@
 # Inflearn_Android_Study
-인프런 강의 들으며 안드로이드 공부하는 저장소
+망고플레이트 앱
+
+Firebase Auth
+WebView
+Firebase Realtime Database
