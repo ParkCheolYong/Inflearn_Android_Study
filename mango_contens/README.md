@@ -1,4 +1,4 @@
-# 망고플레이트 앱
+# MONGO PLATE (망고플레이트 따라하기)
 
 ### Firebase Auth
 ### WebView
